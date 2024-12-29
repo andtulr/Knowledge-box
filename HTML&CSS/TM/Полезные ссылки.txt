@@ -1,0 +1,55 @@
+UI/UX:
+https://sky.pro/media/ux-ui/ - статья про UI/UX с полезными ссылками.
+https://media.contented.ru/osnovy/napravleniya/chto-takoe-ux-ui-dizajn/ - и вот ещё статья про UI/UX дизайн.
+https://habr.com/ru/companies/SECL_GROUP/articles/182208/ - 19 принципов построения интерфейсов
+
+https://rutube.ru/video/d42aaa4f7bb89daac307b63aa99c23f1/?&utm_source=embed&utm_medium=referral&utm_campaign=logo&utm_content=d42aaa4f7bb89daac307b63aa99c23f1&utm_term=yastatic.net%2F&referrer=appmetrica_tracking_id%3D1037600761300671389%26ym_tracking_id%3D5899502207415380254 - Первая презентация Айфона.
+
+
+https://www.figma.com/ - Сайт для проектирования дизайн-макетов интерфейсов (Figma)
+https://www.figma.com/resources/assets/material-icons-outline/ - Плагин для использования иконок
+https://retoucher.online/ru - удаление фона из изображений с помощью ИИ (Искусственного Интеллекта)
+https://www.figma.com/community/portfolio-templates?resource_type=mixed&editor_type=figma&price=free&sort_by=all_time&creators=all - Здесь можно найти бесплатные образцы прототипов для Фигмы. Именно эта ссылка ведёт на образцы прототипов портфолио.
+https://www.figma.com/community/file/788675347108478517 - довольно неплохой образец-прототип одностраничного сайта (одностраничник, лэндинг-пэйдж [landing page]). Тематика сайта: путешествия.
+https://www.figma.com/community/file/1058842196634115002/digital-agency-website-freebie - ещё один довольно неплохой образец-прототип одностраничного сайта (одностраничник, лэндинг-пэйдж [landing page]). Здесь сразу и настольная и мобильная версия прототипа.
+https://www.figma.com/community/file/1116316830579955404 - ещё один довольно неплохой образец-прототип одностраничного сайта портфолио (одностраничник, лэндинг-пэйдж [landing page]).
+https://www.figma.com/community/file/915106818892183760 - просто макет с изображениями большого/компьютерного/настольного, планшетного, мобильного разрешений экранов.
+https://www.figma.com/community/file/1293911601433273694 - образец-прототип анимированного меню в Фигме.
+
+https://rutube.ru/video/e46a80c78a3c647b47150a589a3e7b3b/?&utm_source=embed&utm_medium=referral&utm_campaign=logo&utm_content=e46a80c78a3c647b47150a589a3e7b3b&utm_term=yastatic.net%2F&referrer=appmetrica_tracking_id%3D1037600761300671389%26ym_tracking_id%3D337509850192183162 - хорошее видео про прототипы в Фигме.
+
+https://rutube.ru/video/70a2574f35dbe016a9fe8fd9f8ca2cf8/?&utm_source=embed&utm_medium=referral&utm_campaign=logo&utm_content=70a2574f35dbe016a9fe8fd9f8ca2cf8&utm_term=yastatic.net%2F&referrer=appmetrica_tracking_id%3D1037600761300671389%26ym_tracking_id%3D3053712753065995537 - КАК СДЕЛАТЬ АНИМАЦИЮ БЕГУЩЕЙ СТРОКИ В ФИГМЕ | АНИМАЦИЯ В ФИГМЕ ЗА 7 МИНУТ
+
+https://htmlacademy.ru/blog/soft/figma-plugins - список 40 неплохих плагинов для Фигмы.
+
+Подбор цвета: https://html-templates.info/webservices/kak-je-podobrat-tsvet
+
+Про политику конфиденциальности: https://www.unisender.com/ru/blog/politika-konfidencialnosti-na-sajte-dlya-chego-nuzhna-i-kak-sdelat/
+
+
+
+ВЁРСТКА — HTML/CSS:
+https://html-templates.info/templates - работа с шаблонами
+https://www.codingnepalweb.com/free-sidebar-menu-templates/ - бесплатные шаблоны менюшек сайтов
+
+https://habr.com/ru/articles/467049/ Полное руководство по Флексбоксу
+https://webformyself.com/vvedenie-v-maket-css-grid/ - Введение в CSS Grid.
+https://purpleschool.ru/knowledge-base/article/media - про адаптив.
+https://htmlbase.ru/exercises - хороший практикум по HTML+CSS
+https://htmlbook.ru/practical  - практикум htmlbook
+https://www.schoolsw3.com/js/js_exercises.php - упражнения по html
+https://skillbox.ru/media/code/uchimsya-verstat-v-setke-bolshoy-gayd-po-css-grid/ - Руководство по CSS-Grid
+
+
+JS:
+https://daruse.ru/zadaniya-po-js-dlya-prokachki - Задания для JS-прокачки
+
+
+
+
+Умозрение (теория):
+https://analytics.infozone.pro/formation-requirements-and-classification-requirements/ - Формирование требований и классификация требований
+https://econ.wikireading.ru/63698 - Выработка бизнес-требований
+https://ru.itpedia.nl/2019/04/17/wat-zijn-business-rules/ - Бизнес-правила
+https://kontur.ru/articles/329 - Бизнес-риски
+http://www.stplan.ru/articles/theory/biznes-celi.htm - Бизнес-цели
